@@ -9,10 +9,10 @@ Currently, two official plugins are available:
 
 ## Screenshots
 ### Login 
-![Login](./src/assets/login.png)
+![Login](./src/assets/login.jpeg)
 
-### SigUp 
-![Registration](./src/assets/signup.png)
+### SignUp 
+![Registration](./src/assets/signup.jpeg)
 
 ### Profile
-![Profile](./src/assets/profile.png)
+![Profile](./src/assets/profile.jpeg)
