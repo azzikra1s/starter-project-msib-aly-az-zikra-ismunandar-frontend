@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 ### Login 
 ![Login](./src/assets/login.jpeg)
 
-### SignUp 
+### Sign Up 
 ![Registration](./src/assets/signup.jpeg)
 
 ### Profile
