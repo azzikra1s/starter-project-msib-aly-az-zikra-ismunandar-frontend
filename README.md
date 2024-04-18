@@ -1,4 +1,4 @@
-# React Vite Tailwind Starter Project
+# React Vite Tailwind Implementation
 
 This project showcases UI/UX design using React, Vite, and Tailwind CSS. It offers registration, login, and profile pages for a straightforward yet comprehensive demonstration.
 
